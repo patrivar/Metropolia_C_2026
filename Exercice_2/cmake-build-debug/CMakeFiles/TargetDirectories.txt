@@ -1,0 +1,3 @@
+C:/Users/patri/OneDrive/Desktop/koulu/Vuosi3/C_code/Exercice_2/cmake-build-debug/CMakeFiles/Exercice_2.dir
+C:/Users/patri/OneDrive/Desktop/koulu/Vuosi3/C_code/Exercice_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patri/OneDrive/Desktop/koulu/Vuosi3/C_code/Exercice_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
