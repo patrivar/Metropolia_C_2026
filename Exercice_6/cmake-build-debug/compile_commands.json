@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/patri/OneDrive/Desktop/koulu/Vuosi3/C_code/Exercice_6/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Exercice_6.dir\\main.c.obj -c C:\\Users\\patri\\OneDrive\\Desktop\\koulu\\Vuosi3\\C_code\\Exercice_6\\main.c",
+  "file": "C:/Users/patri/OneDrive/Desktop/koulu/Vuosi3/C_code/Exercice_6/main.c",
+  "output": "C:/Users/patri/OneDrive/Desktop/koulu/Vuosi3/C_code/Exercice_6/cmake-build-debug/CMakeFiles/Exercice_6.dir/main.c.obj"
+}
+]
