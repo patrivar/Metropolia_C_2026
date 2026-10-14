@@ -1,0 +1,3 @@
+Burger;9.0
+Cheese burger; 8.50
+Nuggets; 4.25
