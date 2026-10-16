@@ -1,0 +1,10 @@
+1001;Matti;85
+1002;Liisa;92
+1003;Pekka;76
+1004;Anna;88
+1005;Joonas;65
+1006;Emilia;97
+1007;Oskari;71
+1008;Sara;83
+1009;Noora;90
+1010;Elias;78

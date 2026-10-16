@@ -1,0 +1,10 @@
+2001;Virtanen Matti;3200.50
+2002;Korhonen Liisa;3450.00
+2003;Lahtinen Pekka;3100.75
+2004;Nieminen Anna;3675.20
+2005;Makinen Joonas;3300.90
+2006;Heikkinen Emilia;3525.10
+2007;Koskinen Oskari;3400.00
+2008;Salonen Sara;3250.75
+2009;Lehtonen Noora;3600.00
+2010;Hamalainen Elias;3150.50
